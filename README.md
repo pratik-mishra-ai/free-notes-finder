@@ -1,4 +1,5 @@
 # Free Notes Finder
+Live Demo: https://free-notes-finder.vercel.app
 
 A frontend-only React app where students upload, search, view and download free study notes as PDFs.
 This is a **prototype**: there is no backend, API, database or login.
